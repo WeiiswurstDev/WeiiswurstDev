@@ -10,3 +10,5 @@ I'm Weiiswurst, a student from Germany, who is currently working on a variety of
 ## Contact me
 * Discord: Weiiswurst#0016
 * https://discord.gg/YDkQbE7
+
+![My discord banner](https://discord.c99.nl/widget/theme-2/343444233937747968.png)
